@@ -1,4 +1,4 @@
-# P.S. This System took me longer than 5 hours to find out the the correct System-architecture (flows) to make it work correctly
+# P.S.) This System took me longer than 5 hours to find out the the correct System-architecture (flows) to make it work correctly
 
 
 sorting_hall = {
