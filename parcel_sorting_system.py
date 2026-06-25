@@ -1,4 +1,6 @@
-# P.S.) This System took me longer than 5 hours to find out the the correct System-architecture (flows), for making it work correctly.
+# P.S.) Building this Project-System really took me mentally deep for a whole afternoon until the next morning to get it fully working.
+# It was so terrible that it was amazing!
+# It was purely because I was searching for the correct System-architecture (flows), for making it work correcty.
 
 
 sorting_hall = {
